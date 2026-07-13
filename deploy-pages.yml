@@ -1,4 +1,4 @@
-name: Deploy Alfidata Analytics to GitHub Pages
+name: .github/workflows/deploy-pages.yml
 
 on:
   push:
